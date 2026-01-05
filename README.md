@@ -6,7 +6,7 @@ For English version, please click here: [English Portfolio Intro](https://github
 <br>
 University of British Columbia에서 수학을 전공하였으며 확률, 선형 대수학 등의 과정을 거치며 데이터에 접하게 되었습니다.
 <br>
-이 과정에서 AI와 머신러닝에 관심이 생겼고, 통계 분석 및 모델링 능력의 필요성을 느껴 MITx에서 온라인으로 전문 교육을 받았습니다.
+이 과정에서 AI, 머신러닝에 관심이 생겼고 통계 분석 및 모델링 능력의 필요성을 느껴 MITx에서 온라인으로 전문 교육을 받았습니다.
 <br>
 본 교육을 통하여 미국 물가상승율 분석, PCA와 t-SNE 알고리즘 적합성 평가 및 모델 적용한 뇌세포 분류화 연구, 
 미국 하와이 Mauna Loa 화산의 이산화탄소 배출양 예측 연구를 진행했습니다.
