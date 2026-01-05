@@ -1,4 +1,5 @@
 # 데이터 사이언티스트 김서규 포트폴리오 
+For English version, please click here: [English Portfolio Intro](https://github.com/sm9801/-Seokyu-Kim-Portfolio-/blob/main/README%20(EN).md)
 
 ## 간략 소개
 안녕하세요. 현재 화장품 업계에서 데이터 사이언티스트로 재직중인 김서규 입니다.
